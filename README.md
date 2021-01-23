@@ -12,9 +12,10 @@
 - При создании приложения допустимо использовать только технологии, указанные ниже.
 
 ## Используемые технологии
-- Backend - Laravel Framework 8+
-- Database - MySQL or PostgreSQL
-- Frontend - Vue.js 2+, Tailwind CSS 2+
+- Backend - Laravel Framework 8+;
+- Database - MySQL or PostgreSQL;
+- Frontend - Vue.js 2+, Tailwind CSS 2+.
+
 Фронтенд и бекенд части приложения должны находиться в одном репозитории.
 Будет большим плюсом, если Вы добавите в приложение тесты.
 
